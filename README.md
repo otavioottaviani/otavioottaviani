@@ -1,11 +1,3 @@
-<div align="center">
-
-# Otavio 
-
-</div>
-
-<br>
-
 ### ❖ Redes sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/otavioottaviani)
