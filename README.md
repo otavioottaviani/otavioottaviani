@@ -6,6 +6,13 @@
 
 <br>
 
+### ❖ Redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/SEU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)
+
+<br>
+
 ### ❖ Sobre mim
 
 Sou estudante de Informática, no meio da jornada busco aprender e ampliar meus conhecimentos sobre informática.
@@ -35,9 +42,4 @@ Trabalho com desenvolvimento **web, mobile e desktop**, sempre buscando deixar a
 ![Pacote Office](https://img.shields.io/badge/Pacote%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-<br>
 
-### ❖ Trilhas até mim
-
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/SEU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)
