@@ -8,7 +8,7 @@ Sou estudante de Informática, no meio da jornada busco aprender e ampliar meus 
 Trabalho com desenvolvimento **web, mobile e desktop**, sempre buscando deixar as coisas funcionais e bonitas. Curto também música e design/moda como hobby paralelo.
 <br>
 ### ❖ Arsenal (Competências Técnicas)
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,github&theme=dark" />
 <br><br>
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8892BF)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
