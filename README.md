@@ -1,7 +1,4 @@
-### ❖ Redes sociais
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/otavioottaviani)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:otavioottaviani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](COLOQUE_SUA_URL_AQUI)
+
 <br>
 ### ❖ Sobre mim
 Sou estudante de Informática, no meio da jornada busco aprender e ampliar meus conhecimentos sobre informática.
