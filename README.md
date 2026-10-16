@@ -1,6 +1,6 @@
 <h1 align="center"> Hey 👋 I'm Otavio</h1>
 <p align="center">Aspiring IT Professional · Software, Automation & AI · Brazil 🇧🇷</p>
-<img src="https://media.tenor.com/Que_fgQARE0AAAAj/tunic-fox.gif" height="200" alt="Pixel fox with a sword, an homage to TUNIC" />
+<img align="center" src="https://media.tenor.com/Que_fgQARE0AAAAj/tunic-fox.gif" height="200" alt="Pixel fox with a sword, an homage to TUNIC" />
 
 <sub align="center">· · · ✦ · · ·</sub>
 
