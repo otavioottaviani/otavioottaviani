@@ -73,9 +73,6 @@
 
 ###
 
-<div data-importer="techs" align="left">
-</div>
 
-###
 
 
