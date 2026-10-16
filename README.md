@@ -1,16 +1,16 @@
 <div align="center">
-Hey 👋 I'm Otavio
+<h2>Hey 👋 I'm Otavio</h2>
 Aspiring IT Professional · Software, Automation & AI · Brazil 🇧🇷
 <p align="center"> <!-- Ajuste fino da raposa: mude o width do espaçador (maior = raposa vai mais para a esquerda) --> <img src="https://media.tenor.com/Que_fgQARE0AAAAj/tunic-fox.gif" height="200" alt="Pixel fox with a sword, an homage to TUNIC" /> <img width="44" height="1" /> </p> </div>
-About Me
+<h2>About Me</h2>
 
 I'm an aspiring IT professional interested in software development, automation, artificial intelligence, and technology solutions.
 
 I enjoy exploring new technologies, building projects, and learning through hands-on experience. My interests range from web development and API integrations to process automation, technical support, and troubleshooting.
 
-Skills
+<h2>Skills</h2>
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /> </div>
-GitHub Journey
+<h2>GitHub Journey</h2>
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otavioottaviani&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F1A14&title_color=C9A227&text_color=E8DFC4&icon_color=7A9A5B&title=GitHub%20Stats" alt="GitHub stats: stars, commits, PRs, issues" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioottaviani&layout=compact&langs_count=6&hide_border=true&bg_color=0F1A14&title_color=C9A227&text_color=E8DFC4&title=Top%20Languages" alt="Most used languages" /> </p> <p align="center"> <img width="98%" src="https://streak-stats.demolab.com?user=otavioottaviani&hide_border=true&background=0F1A14&ring=C9A227&fire=C9A227&currStreakNum=E8DFC4&sideNums=E8DFC4&currStreakLabel=C9A227&sideLabels=7A9A5B&dates=7A9A5B" alt="GitHub contribution streak" /> </p> <p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=otavioottaviani&bg_color=0F1A14&color=E8DFC4&line=C9A227&point=E8DFC4&area=true&area_color=5B7B4A&hide_border=true&title_color=C9A227" alt="Contribution activity graph" /> </p>
-Socials
+<h2>Socials</h2>
 <div align="center"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord: imrealn0t" /> <a href="mailto:otavioottaviani@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a> <a href="https://www.linkedin.com/in/otavio-felix-ottaviani-9684a443b/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <br> <sub>Discord: <b>imrealn0t</b></sub> </div> <br> <div align="center"> <sub><i>Every path is a map still being drawn. Keep exploring.</i></sub> </div>
