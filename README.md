@@ -1,4 +1,4 @@
-❖ Hey 👋 I'm Otavio ❖
+<h1> Hey 👋 I'm Otavio</h1>
 Aspiring IT Professional · Software, Automation & AI · Brazil 🇧🇷
 <img src="https://media.tenor.com/Que_fgQARE0AAAAj/tunic-fox.gif" height="200" alt="Pixel fox with a sword, an homage to TUNIC" />
 
